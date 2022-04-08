@@ -1,0 +1,15 @@
+#background_img{
+    background-image: url("https://www.minecraft.net/content/dam/games/minecraft/marketplace/updates-catspandas_latest.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+#heading{
+    font-size: 40px;
+    font-weight: bold;
+}
+
+#my_canvas{
+    background-color: white;
+    border: ridge gray 5px;
+}
